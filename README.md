@@ -84,6 +84,10 @@ select * from test_table;
 *1) Созданной базы данных;*
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
 
+![img](https://github.com/Dokukin1/baza1/blob/main/1.png)
+![img](https://github.com/Dokukin1/baza1/blob/main/2.png)
+![img](https://github.com/Dokukin1/baza1/blob/main/3.png)
+
 
 
 ### Задание 2*
@@ -92,3 +96,8 @@ select * from test_table;
 
 
 *В качестве результата вашей работы пришлите скришоты:*
+![img](https://github.com/Dokukin1/baza1/blob/main/04_creating_cluster_by_terraform.png)
+![img](https://github.com/Dokukin1/baza1/blob/main/05_creating_database_by_terraform.png)
+![img](https://github.com/Dokukin1/baza1/blob/main/06_connect_to_database.png)
+
+
